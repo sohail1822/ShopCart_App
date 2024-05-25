@@ -1,6 +1,9 @@
 # Shopping Cart App
 
 This project is a React application built with the following technologies:
+**`React`**
+**`Redux Toolkit`**
+**`Tailwind CSS`**
 
 ## Getting Started
 
