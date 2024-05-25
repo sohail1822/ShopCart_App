@@ -28,10 +28,11 @@ npm start
 This will start the development server and open your app in the browser, usually at http://localhost:3000/.
 
 ## Project Structure
+
 The project is organized with the following directory structure:
 
-src: Contains all the source code for the React application.
-components: Reusable UI components.
-pages : Top-level page components responsible for rendering the content of specific pages. 
-redux: This folder houses Redux Toolkit-related files
-App.js: The main application entry point.
+**`src`**: Contains all the source code for the React application.
+**`components`**: Reusable UI components.
+**`pages`** : Top-level page components responsible for rendering the content of specific pages. 
+**`redux`**: This folder houses Redux Toolkit-related files
+**`index.js`**: The main application entry point.
