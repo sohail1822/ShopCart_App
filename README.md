@@ -19,6 +19,7 @@ git clone [https://your-github-repo.git](https://github.com/sohail1822/ShopCart_
 
 ## 3.Install dependencies:
 cd your-app-directory
+
 npm install
 
 ## 4.Start the development server:
