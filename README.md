@@ -17,7 +17,9 @@ Node.js and npm installed on your system.
 ```
 
 ## 2.Clone the repository:
+```
 git clone [https://your-github-repo.git](https://github.com/sohail1822/ShopCart_App)
+```
 
 ## 3.Install dependencies:
 cd your-app-directory
@@ -26,7 +28,9 @@ npm install
 ```
 
 ## 4.Start the development server:
+```
 npm start
+```
 
 This will start the development server and open your app in the browser, usually at http://localhost:3000/.
 
