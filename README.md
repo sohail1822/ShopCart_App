@@ -3,12 +3,6 @@
 This project is a React application built with the following technologies:
 
 
-React: A JavaScript library for building user interfaces.
-Redux Toolkit: simplifies state management in Redux applications.
-React Hook Form: simplifies building forms with React Hooks.
-Tailwind CSS: a utility-first CSS framework for rapid UI development.
-
-
 Getting Started
 
 ##  1.Prerequisites:
