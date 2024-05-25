@@ -12,7 +12,9 @@ Tailwind CSS: a utility-first CSS framework for rapid UI development.
 Getting Started
 
 ##  1.Prerequisites:
-Node.js and npm (or yarn) installed on your system.
+```
+Node.js and npm installed on your system.
+```
 
 ## 2.Clone the repository:
 git clone [https://your-github-repo.git](https://github.com/sohail1822/ShopCart_App)
