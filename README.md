@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-This will start the development server and open your app in the browser, usually at http://localhost:3000/.
+This will start the development server and open your app in the browser, usually at **` http://localhost:3000/.`**
 
 ## Project Structure
 
