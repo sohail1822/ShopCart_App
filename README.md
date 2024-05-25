@@ -31,7 +31,7 @@ This will start the development server and open your app in the browser, usually
 ## Project Structure
 The project is organized with the following directory structure:
 
-src: Contains all the source code for the React application.
+**src**: Contains all the source code for the React application.
 components: Reusable UI components.
 pages : Top-level page components responsible for rendering the content of specific pages. 
 redux: This folder houses Redux Toolkit-related files
